@@ -27,6 +27,9 @@ body {
   clip-path: inset(50%);
   margin: -1px;
 }
+.menu-item .mark-page{
+  color: var(--accent-color);
+}
 .link {
   text-decoration: none;
 }
