@@ -41,7 +41,6 @@ body {
 .logo {
   font-family: 'Raleway', sans-serif;
   color: #000000;
-  font-weight: 700;
   font-size: 26px;
   line-height: 1.2em;
   letter-spacing: 0.03em;
@@ -101,7 +100,6 @@ body {
 /* Features section  */
 .features-subtitle {
   color: var(--secondary-color);
-  font-weight: 700;
   font-size: 14px;
   line-height: 1.1em;
   letter-spacing: 0.03em;
