@@ -93,6 +93,7 @@ body {
 .hero-btn {
   background-color: var(--accent-color);
   color: var(--additional-color);
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.9em;
@@ -139,6 +140,7 @@ body {
 .filters-btn {
   background-color: var(--btn-color);
   color: var(--secondary-color);
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6em;
